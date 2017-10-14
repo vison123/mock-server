@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "errmsg": "",
+  "data": {
+    "accessToken": "e4d3214edf0e442781befe39d4c49fcf",
+    "name": "weisen",
+    "isVer": 0,
+    "shopId": 10,
+    "shopName": "海底捞火锅",
+    "businessType": "2"
+  }
+}
